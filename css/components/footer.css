@@ -1,0 +1,27 @@
+.container-footer {
+  margin: 0 auto;
+}
+
+.container-footer ul li {
+  display: inline;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 60px;
+}
+
+.footer-icon {
+  text-align: center;
+  display: block;
+}
+
+.fab {
+  font-size: 30px;
+}
+
+.container-footer p {
+  text-align: center;
+}
+
